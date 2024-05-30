@@ -1,0 +1,12 @@
+{
+  "PORT": 9000,
+  "DATABASE_CONNECTION_URL": "mongodb://localhost:27017/auth-youtube",
+  "ACCESS_SECRET": "AMRmMG7zeGUNKJ5H$Bd%",
+  "REFRESH_SECRET": "4c26NBqQ23QQXBrs6&$j",
+  "CLIENT_URL": "http://localhost:3000",
+  "API_URL": "http://localhost:9000/api",
+  "MAIL_HOST": "smtp.gmail.com",
+  "MAIL_PORT": 587,
+  "MAIL_AUTH_USER": "yalmazoff@gmail.com",
+  "MAIL_AUTH_PASSWORD": "jtsx zjcl ieok kekj"
+}

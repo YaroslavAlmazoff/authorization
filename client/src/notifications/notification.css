@@ -1,0 +1,7 @@
+.notification {
+  padding: 10px;
+  border-radius: 15px;
+  background-color: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  bottom: 10px;
+}
